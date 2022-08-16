@@ -21,4 +21,4 @@ You can change target alloy, phases in grain interior, database and temperature 
 
 If you use this code in your work, please cite the reference bellow.
 
-[TO BE FILLED] 
+[M. Funamoto, Y. Matsuoka, Y. Tsukada and T. Koyama, Prediction of grain boundary chemistry in multicomponent alloys, Science and Technology of Advanced Materials: Methods, (2022).](https://doi.org/10.1080/27660400.2022.2112915) 
